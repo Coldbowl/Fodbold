@@ -24,15 +24,13 @@ def printliste():
         print(f"{item} har betalt {beløb} kr og mangler at betale {4500 - beløb} kr\n")
 
 def modtag_betaling():
-    kør = True
-    while kør:
+    while True:
         navn = input("Indtast navnet på personen der betaler (Skriv 'b', hvis du ønsker at gå tilbage): ")
         if navn == "b":
-            kør = False
             break
 
         if navn in navne:
-            kør = False
+
             break
         else:
             print("Ikke et validt navn")
