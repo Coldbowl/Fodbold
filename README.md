@@ -1,13 +1,13 @@
 # Fodboldtur
 
 ## Flowcharts
-Første flowchart over programmet:
+First flowchart:
 
-"image"
+![alt text](https://github.com/Coldbowl/Fodbold/blob/main/images/flowchart_1.jpg "First flowchart")
 
-Andet flowchart over programmet
+Second flowchart:
 
-"image"
+![alt text](https://github.com/Coldbowl/Fodbold/blob/main/images/flowchart_2.jpg "Second flowchart")
 
 ## Changes Made
 
