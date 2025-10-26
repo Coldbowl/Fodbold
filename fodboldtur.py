@@ -27,7 +27,7 @@ def modtag_betaling():
     while True:
         navn = input("Indtast navnet på personen der betaler (Skriv 'b', hvis du ønsker at gå tilbage): ")
         if navn == "b":
-            break
+            return
 
         if navn in navne:
 
