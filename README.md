@@ -1,6 +1,6 @@
 # Fodboldtur
 
-## Flowcharts
+## Project Overview 
 ### Flowchart:
 
 ![alt text](https://github.com/Coldbowl/Fodbold/blob/main/images/Fodbold_flowchart.png "Flowchart")
