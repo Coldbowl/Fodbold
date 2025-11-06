@@ -8,7 +8,7 @@
 
 ### Class sketch:
 
-![alt text](https://github.com/Coldbowl/Fodbold/blob/main/images/Classes sketch.jpg "Class sketch")
+![alt text](https://github.com/Coldbowl/Fodbold/blob/main/images/Classes_sketch.jpg "Class sketch")
 
 ### Sources:
 
